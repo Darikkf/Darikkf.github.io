@@ -1,3 +1,3 @@
 <?php
-$sitename="http://pdf.amtor.net/";
+$sitename="https://darikkf.github.io/";
 ?>
